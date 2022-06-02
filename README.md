@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I’m Ziauddin Mohammad
 
+- 🔭 I’m currently working on Low latency trading systems
+- 🌱 I’m currently learning GO web development
+- 👯 I’m looking to collaborate on projects that require working with Cloud Technologies
+- 📫 How to reach me: ziauddin.md66@gmail.com
+- 
 <!--
 **ZiauddinMohammad/ZiauddinMohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
